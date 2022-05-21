@@ -1,5 +1,5 @@
-### Hi there 👋
-
+hola mi nombre es Paola Sixtos 
+actualmente estoy estudiando el curso de fundamentos en programacion web
 <!--
 **paolasm1268/paolasm1268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
